@@ -1,4 +1,4 @@
-### Hey there!, I'm Dylan.👋
+### Hey there, I'm Dylan.👋
 
 I'm a Junior Computer Science major at Occidental College, and a software engineering intern at Experian. Most of my projects are written in Javascript, Python, Java, or C. I love Developing Fullstack Projects!    
     
